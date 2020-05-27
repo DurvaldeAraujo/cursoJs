@@ -1,0 +1,50 @@
+modulo A:
+client x server : cliente ultiliza um serviço que esta sendo fornecido pelo youtube
+,existe tecnologias para clientes, e tecnologias para servidores, o javascript,
+serve especialmente para os cliente
+html:foca especiamente na apresenta sao de textos/conteudo
+css: foca no estilo do seu conteudo 
+js: foca na interassao da pessoa com o sitio
+______________________________________________________________________________________________
+Aula2 Perguntas: Sabe a Diferença entra um cliente e um servidor para a Internet?
+R:o cliente solicita um dado na internet , e o servidor fornece o dado solicitado
+Para que serve HTML, CSS, e JS?
+html foca na estrutura do site, o Css foca no estilo da pagina e o Js é a parte de 
+interaçao do usuario com o site
+Cite 4 sites que fazem uso do JavaScript.
+ 
+javascript x ecmascript
+evolução do JS
+darpa,arpanet,TBL 1993 criou o html,http e fundou o WWW,mark 1994 fundou o netscape,1995 
+moca - js , mozaic criou o explorer, ecma versao padronizada do js,mozila criou firefox em 2002
+2008 nasceu o chrome, 2009 V8 motor que roda o JS no Chrome, node 
+______________________________________________________________________________________________
+Aula3 Perguntas Sabe que empresa criouo JavaScript?
+R: O JavaScript foi criado por Brandon Eich/Mozilla
+Java e JavaScript possuem alguma relaçao?
+R: Não apenas o nome, Pelo nome Java estar em alta quando criou o JavaScript
+o que EcmaScript tem a Ver com JavaScript?
+O EcmaScript é a Versão padronizada do JavaScript
+Sabia que o programa WhatsApp Descktop é criado em JavaScript?
+R: Sim, sem o javascript o whatsapp web nao funciona
+
+livros - javascript o guia definitivo,javascript guia do programador;
+guia de referencia do mozilla e guia de referencia do ecma;
+________________________________________________________________________________
+Aula4 Perguntas: Que livros/documentos nós recomendamos?
+R:livros - javascript o guia definitivo,javascript guia do programador;
+guia de referencia do mozilla e guia de referencia do ecma;
+Para aprender Js, precisamos saber inglês?
+R: não, apenas precisa ter força de vontade, além de não ter idade para aprender
+Que dicas nós demos para quem quer estudar?
+focar nos estudos e se reunir com colegas para descutir ideias sobre o curso de JS
+Quais programas nós instalamos no computador?
+Foi instalado o Chrome, o VS e o Node 
+
+primeiro Script:
+  
+ 
+
+
+
+

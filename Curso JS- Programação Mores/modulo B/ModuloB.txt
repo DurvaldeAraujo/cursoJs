@@ -1,0 +1,102 @@
+Modulo B
+Aula5 - Perguntas:
+Já sabe organizar suas pastas com VSCode?
+R: Sim
+O NOde:js está instalado no seu computador?
+R:Sim
+Sabe diferendiar HTML4,CSS3 e JS dentro de um código?
+R: Sim
+Sabe disparar alestar, confirmações e perguntas?
+R: Sim, com Alert, confirm e prompt.
+
+Aula sobre variaveis:
+var ou let
+comentarios no Js //(unica linha) ou /*   */(Mais de uma linha de codigo)
+identificadores: podem começas com Letra, & ou _
+nao podem começar com números
+é possivel usar letras ou numeros
+é possivel usar acentos e simbolod
+nao podem conter espaço
+nao podem ser palavras reservadas
+
+maiusculas e minusculas fazem diferença
+tente escolher nomes coerentes para as variaveis
+evite se tornar um programador alfabeto ou um programador contador
+
+boolean - true e False
+number- numeros
+string - frases
+
+type off mostra o tipo de variavel
+___________________________________________________________________________
+Aula6 - Perguntas:
+O que é uma variável?
+R:uma variável é um objeto capaz de reter e representar um valor ou expressão
+Como declarar um vaciavel numérica inteira ou Real usando JS?
+R:Number.parseInt(n) e Number.parseFloat(n) ou apenas Number(n)
+Quais são os tipos primitivos do JS?
+R:Os pricipais sao o boolean, number, string,null,undefined,object e function
+sendo o boolean, number e string sendos os principais
+O que significa colocar o valor null dentro de uma variável?
+R: signigica que você esta declando um objeto nulo
+ 
++ é concatenação
+
+mudança para string
+String(n)
+n.toString()
+
+${}template string
+s.length // quantas caracteres a string tem
+s.toUpperCase() // tudo para "MAIUSCULAS"
+s.toLowerCase() // tudo para "minúsculas"
+
+n.tofixed()
+n.tofixe().replace('.' , ',')
+n.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})
+______________________________________________________________________________
+Aula7 - Perguntas:
+Como é possível guardar o valor digitado em um prompt() dentro de uma variável?
+R: declarando o prompt dentro de uma variavel que vc escolher 
+Como fazer com que um número digitado em um prompt() possa ser usado em cálculos?
+R: Transformando o numero para Number(n)
+Como transformar um texto todo para letras MAIÚSCULAS?
+R:usando o comando s.toUpperCase()
+Como mostras um número formatado como um valor monetário?
+R: usando a linha de comando n.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})
+
+Operadores de JS 
+aritméticos(+,-,*,/,%,**)
+atribuição
+relacionais
+lógicos
+ternário
+
+** (potencia)
+% (resto inteiro)
+
+n+=4(simplificação)
+________________________________________________________________________________________
+Aula8 - Perguntas:
+Para que serve o operador % em JS?Seria para calcular a porcentagem?
+R:não, o operador % serve para mostra o resto inteiro de uma divisão
+6+4/2 é igual a 5 ou 8?
+R: igual a 8 pois voce primeiro dividi para depois somar
+Se uma variável n está valendo 10 e executamos um n+=5, qual será seu novo valor?
+R: o novo valor vai ser igual a 15
+Para que servem os operadores ++ e --? 
+R: esses operadores servem para incrementa ou decrementar o numero atual 
+
+operadores relacionais, logicos e ternarios
+relacionais ( >,<,<=,=>, ==, !-)
+
+! (negação) Não
+$$ (conjunção) E
+|| (disjunção) Ou
+
+ternário ? e : 
+teste ? true , : false
+
+
+
+

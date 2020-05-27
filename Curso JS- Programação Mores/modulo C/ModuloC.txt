@@ -1,0 +1,40 @@
+Modulo C DOM(documento object model
+Aula 9 - perguntas
+Qual é a diferença entre usar =, == e === em códigos escritos em Js?
+R: o = está atribuindo a uma variável, o == está dizendo se são iguais, e o ===
+está dizendo se é identico um ao outro
+Em uma mesma expressão, temos os operadores || e %%. Quem eu resolvo primeiro? 
+R: primeiro vem o &&
+Sabe usar o operador ternário para colocar um entre dois valor em uma variável?
+R:sim, com ? sendo true e : false
+
+entendendo do DOM
+
+Documento Object Model
+modelo de objetos para documentos
+arvóre DOM(window{location,document,history})
+
+selecionando por
+marca, ID, nome, classe e seletor
+_______________________________________________________________
+Aula 10 - Perguntas
+O que signigiva a Sigla DOM?
+R: DOM significa Document object model
+Sabe montar a árvore DOM de um web site simples?
+R:sim
+O que são os elementos parent e os elementos child em uma árvore DOM?
+R: os elementos Parent são os elementos principais dentro da tag HTML, ja o Child
+são tags dentro de outras tags na sua árvore
+Quais são os cinco principais métodor de selecionar elementos DOM dentro do JS?
+R:os 4 elementos são marca, id, nome, classe e seletor
+
+Eventos DOM
+mouseenter,mousemove,mousedown,mouseup,click,mouseout
+lista de eventos do site da mozilla(event refence)
+
+funções
+funtionação(param){
+
+}
+
+
